@@ -8,4 +8,4 @@ It classifies 5 basic emotions:
 3. Happy
 4. Neutral
 5. Fear
-
+6. Disgust
