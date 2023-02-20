@@ -9,3 +9,8 @@ It classifies 5 basic emotions:
 4. Neutral
 5. Fear
 6. Disgust
+
+Run
+1. data_preprocessing.ipynb
+2.Model_training.ipynb
+3. evaluating.ipynb
