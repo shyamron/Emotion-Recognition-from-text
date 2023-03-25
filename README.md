@@ -12,5 +12,5 @@ It classifies 5 basic emotions:
 
 Run
 1. data_preprocessing.ipynb
-2.Model_training.ipynb
+2. Model_training.ipynb
 3. evaluating.ipynb
